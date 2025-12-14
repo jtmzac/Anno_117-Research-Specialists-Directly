@@ -255,6 +255,8 @@
 			<TechName>-6905748428048504120</TechName>
 			<TechIcon>37766</TechIcon>
 			<TechDescription>-6905232629099400217</TechDescription>
+			<!-- <TechVisibilityTrigger>37848</TechVisibilityTrigger> -->
+			<!-- <TechResearchableTrigger>1400300209</TechResearchableTrigger> -->
 			<GridPosition>
 				<X>-3</X>
 				<Y>26</Y>
@@ -268,7 +270,9 @@
 </Asset>
 
 
- <ModOp Type="addnextsibling" GUID="55125">
+
+
+
     <Asset>
       <Template>Trigger</Template>
       <Values>
@@ -277,61 +281,49 @@
           <Name>Economy Gate retroactive unlock</Name>
         </Standard>
         <Trigger>
-          <TriggerCondition>
-            <Template>ConditionAlwaysTrue</Template>
-            <Values>
-              <Condition />
-              <ConditionAlwaysTrue />
-            </Values>
-          </TriggerCondition>
-          <TriggerActions>
-            <Item>
-              <TriggerAction>
-                <Template>ActionUnlockAsset</Template>
-                <Values>
-                  <Action />
-                  <ActionUnlockAsset>
-                    <UnlockAssets>
-                      <Item>
-                        <Asset>1400300206</Asset>
-                      </Item>
-                    </UnlockAssets>
-                  </ActionUnlockAsset>
-                </Values>
-              </TriggerAction>
-            </Item>
-          </TriggerActions>
-          <SubTriggers>
-            <Item>
-              <SubTrigger>
-                <Template>AutoCreateTrigger</Template>
-                <Values>
-                  <Trigger>
-                    <TriggerCondition>
-                      <Template>ConditionUnlocked</Template>
-                      <Values>
-                        <Condition />
-                        <ConditionUnlocked>
+			<TriggerCondition>
+				<Template>ConditionUnlocked</Template>
+				<Values>
+					<Condition />
+					<ConditionUnlocked>
                           <UnlockNeeded>37726</UnlockNeeded>
-                        </ConditionUnlocked>
-                        <ConditionPropsNegatable />
-                      </Values>
-                    </TriggerCondition>
-                  </Trigger>
-                </Values>
-              </SubTrigger>
-            </Item>
-          </SubTriggers>
+					</ConditionUnlocked>
+					<ConditionPropsNegatable />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300206</Asset>
+									</Item>
+									</UnhideAssets>
+									<UnlockAssets>
+									<Item>
+										<Asset>1400300206</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
         </Trigger>
         <TriggerSetup>
           <AutoRegisterTrigger>1</AutoRegisterTrigger>
           <UsedByFirstParties>1</UsedByFirstParties>
-          <UsedBySecondParties>0</UsedBySecondParties>
-          <UsedByThirdParties>0</UsedByThirdParties>
         </TriggerSetup>
       </Values>
     </Asset>
-  </ModOp>
+
+
+
+
 
 
 <!-- <GUID>24318</GUID> -->
@@ -356,12 +348,14 @@
     <Item><Tech>1400300205</Tech></Item>
 	</ModOp>
 
-  <ModOp Add="@50159/AssetPool/AssetList">
+  <!-- <ModOp Add="@50159/AssetPool/AssetList">
     <Item><Tech>1400300206</Tech></Item>
-	</ModOp>
+	</ModOp> -->
+
+
   <ModOp Add="@24318/TechCategory/Techs">
     <Item><Tech>1400300206</Tech></Item>
-	</ModOp>
+  </ModOp>
 
 
 
@@ -620,8 +614,6 @@
 			<TechName>-6913517557280745349</TechName>
 			<TechIcon>81172</TechIcon>
 			<TechDescription>-6903609973216368966</TechDescription>
-			<!-- <TechVisibilityTrigger>37856</TechVisibilityTrigger>
-			<TechResearchableTrigger>81173</TechResearchableTrigger> -->
 			<GridPosition>
 				<Y>26</Y>
 			</GridPosition>
@@ -657,18 +649,12 @@
     <Item><Tech>1400300215</Tech></Item>
 	</ModOp>
 
-  <!-- <ModOp Add="@50159/AssetPool/AssetList">
-    <Item><Tech>1400300216</Tech></Item>
-	</ModOp> -->
   <ModOp Add="@26701/TechCategory/Techs">
     <Item><Tech>1400300216</Tech></Item>
-	</ModOp>
+  </ModOp>
 
 
 
-
-
-   <ModOp Type="addnextsibling" GUID="55125">
     <Asset>
       <Template>Trigger</Template>
       <Values>
@@ -677,62 +663,45 @@
           <Name>Civic Gate retroactive unlock</Name>
         </Standard>
         <Trigger>
-          <TriggerCondition>
-            <Template>ConditionAlwaysTrue</Template>
-            <Values>
-              <Condition />
-              <ConditionAlwaysTrue />
-            </Values>
-          </TriggerCondition>
-          <TriggerActions>
-            <Item>
-              <TriggerAction>
-                <Template>ActionUnlockAsset</Template>
-                <Values>
-                  <Action />
-                  <ActionUnlockAsset>
-                    <UnlockAssets>
-                      <Item>
-                        <Asset>1400300216</Asset>
-                      </Item>
-                    </UnlockAssets>
-                  </ActionUnlockAsset>
-                </Values>
-              </TriggerAction>
-            </Item>
-          </TriggerActions>
-          <SubTriggers>
-            <Item>
-              <SubTrigger>
-                <Template>AutoCreateTrigger</Template>
-                <Values>
-                  <Trigger>
-                    <TriggerCondition>
-                      <Template>ConditionUnlocked</Template>
-                      <Values>
-                        <Condition />
-                        <ConditionUnlocked>
+			<TriggerCondition>
+				<Template>ConditionUnlocked</Template>
+				<Values>
+					<Condition />
+					<ConditionUnlocked>
                           <UnlockNeeded>81172</UnlockNeeded>
-                        </ConditionUnlocked>
-                        <ConditionPropsNegatable />
-                      </Values>
-                    </TriggerCondition>
-                  </Trigger>
-                </Values>
-              </SubTrigger>
-            </Item>
-          </SubTriggers>
+					</ConditionUnlocked>
+					<ConditionPropsNegatable />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300216</Asset>
+									</Item>
+									</UnhideAssets>
+									<UnlockAssets>
+									<Item>
+										<Asset>1400300216</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
         </Trigger>
         <TriggerSetup>
           <AutoRegisterTrigger>1</AutoRegisterTrigger>
           <UsedByFirstParties>1</UsedByFirstParties>
-          <UsedBySecondParties>0</UsedBySecondParties>
-          <UsedByThirdParties>0</UsedByThirdParties>
         </TriggerSetup>
       </Values>
     </Asset>
-  </ModOp>
-
 
 
 
@@ -1023,9 +992,7 @@
     <Item><Tech>1400300225</Tech></Item>
 	</ModOp>
 
-  <!-- <ModOp Add="@50159/AssetPool/AssetList">
-    <Item><Tech>1400300216</Tech></Item>
-	</ModOp> -->
+
   <ModOp Add="@24319/TechCategory/Techs">
     <Item><Tech>1400300226</Tech></Item>
 	</ModOp>
@@ -1034,7 +1001,9 @@
 
 
 
-   <ModOp Type="addnextsibling" GUID="55125">
+
+
+
     <Asset>
       <Template>Trigger</Template>
       <Values>
@@ -1043,61 +1012,47 @@
           <Name>Military Gate retroactive unlock</Name>
         </Standard>
         <Trigger>
-          <TriggerCondition>
-            <Template>ConditionAlwaysTrue</Template>
-            <Values>
-              <Condition />
-              <ConditionAlwaysTrue />
-            </Values>
-          </TriggerCondition>
-          <TriggerActions>
-            <Item>
-              <TriggerAction>
-                <Template>ActionUnlockAsset</Template>
-                <Values>
-                  <Action />
-                  <ActionUnlockAsset>
-                    <UnlockAssets>
-                      <Item>
-                        <Asset>1400300226</Asset>
-                      </Item>
-                    </UnlockAssets>
-                  </ActionUnlockAsset>
-                </Values>
-              </TriggerAction>
-            </Item>
-          </TriggerActions>
-          <SubTriggers>
-            <Item>
-              <SubTrigger>
-                <Template>AutoCreateTrigger</Template>
-                <Values>
-                  <Trigger>
-                    <TriggerCondition>
-                      <Template>ConditionUnlocked</Template>
-                      <Values>
-                        <Condition />
-                        <ConditionUnlocked>
+			<TriggerCondition>
+				<Template>ConditionUnlocked</Template>
+				<Values>
+					<Condition />
+					<ConditionUnlocked>
                           <UnlockNeeded>37721</UnlockNeeded>
-                        </ConditionUnlocked>
-                        <ConditionPropsNegatable />
-                      </Values>
-                    </TriggerCondition>
-                  </Trigger>
-                </Values>
-              </SubTrigger>
-            </Item>
-          </SubTriggers>
+					</ConditionUnlocked>
+					<ConditionPropsNegatable />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300226</Asset>
+									</Item>
+									</UnhideAssets>
+									<UnlockAssets>
+									<Item>
+										<Asset>1400300226</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
         </Trigger>
         <TriggerSetup>
           <AutoRegisterTrigger>1</AutoRegisterTrigger>
           <UsedByFirstParties>1</UsedByFirstParties>
-          <UsedBySecondParties>0</UsedBySecondParties>
-          <UsedByThirdParties>0</UsedByThirdParties>
         </TriggerSetup>
       </Values>
     </Asset>
-  </ModOp>
+
+
 
 
 </ModOps>
