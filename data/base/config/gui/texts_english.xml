@@ -1,0 +1,137 @@
+
+
+<ModOps>
+
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Economy Specialist</Text>
+      <LineId>1400300206</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Civic Specialist</Text>
+      <LineId>1400300216</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Military Specialist</Text>
+      <LineId>1400300226</LineId>
+    </Text>
+  </ModOp>
+
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Shipyard reduced costs and faster build speed</Text>
+      <LineId>1400300200</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>City watches -maintanence and +income </Text>
+      <LineId>1400300201</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Mine productivity with extra gold</Text>
+      <LineId>1400300202</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Trade price buff and half maintenance</Text>
+      <LineId>1400300203</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Medici/hospital buff</Text>
+      <LineId>1400300204</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Aqueduct source +200 water, flat +100 fire safety</Text>
+      <LineId>1400300205</LineId>
+    </Text>
+  </ModOp>
+
+
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Public service/wonders half water use (not cisterns) , flat +100 knowledge</Text>
+      <LineId>1400300210</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Arable farm productivity and additional flax</Text>
+      <LineId>1400300211</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Shrine buff</Text>
+      <LineId>1400300212</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Amenities +belief -knowledge</Text>
+      <LineId>1400300213</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Weapons/Armour very small buff</Text>
+      <LineId>1400300214</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Cohortes/police buff</Text>
+      <LineId>1400300215</LineId>
+    </Text>
+  </ModOp>
+
+
+
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Archer and ballista accuracy and range</Text>
+      <LineId>1400300220</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Movement speed + wind impact and angle</Text>
+      <LineId>1400300221</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>+prestige and -fire safety around bath/forum tier and higher public service buildings</Text>
+      <LineId>1400300222</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Wind angle buffs, +health, reduced cargo slowdown</Text>
+      <LineId>1400300223</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Vigiles/fire station buff</Text>
+      <LineId>1400300224</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Movement speed, reduce damage taken, cargo transfer speed and health</Text>
+      <LineId>1400300225</LineId>
+    </Text>
+  </ModOp>
+</ModOps>

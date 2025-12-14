@@ -1,0 +1,15 @@
+{
+  "Anno": 8,
+  "ModID": "research-specialists-directly-jtmzac",
+  "Version": "1.0.0",
+  "Difficulty": "easier",
+  "Category": {
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "English": "Research Specialists Directly"
+  },
+  "Description": {
+    "English": "Obtain research specialists using new specific research nodes instead of random pools"
+  }
+}

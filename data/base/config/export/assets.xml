@@ -1,0 +1,1103 @@
+
+
+<ModOps>
+
+
+
+
+
+
+
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                                             Economy                                            -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+<!-- <GUID>79669</GUID> -->
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300200</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>79636</VisibleTechIcon>
+			<VisibleTechDescription>1400300200</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>79636</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300200</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>79636</TechIcon>
+			<TechDescription>1400300200</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>79636</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-3</X>
+				<Y>25</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300201</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>51286</VisibleTechIcon>
+			<VisibleTechDescription>1400300201</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>51286</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300201</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>51286</TechIcon>
+			<TechDescription>1400300201</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>51286</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-2</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300202</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>79947</VisibleTechIcon>
+			<VisibleTechDescription>1400300202</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>79947</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300202</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>79947</TechIcon>
+			<TechDescription>1400300202</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>79947</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-2</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300203</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>71548</VisibleTechIcon>
+			<VisibleTechDescription>1400300203</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>71548</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300203</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>71548</TechIcon>
+			<TechDescription>1400300203</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>71548</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-3</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300204</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>54034</VisibleTechIcon>
+			<VisibleTechDescription>1400300204</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>54034</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300204</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>54034</TechIcon>
+			<TechDescription>1400300204</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>54034</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-4</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300205</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300206</VisibleTechName>
+			<VisibleTechIcon>42054</VisibleTechIcon>
+			<VisibleTechDescription>1400300205</VisibleTechDescription>
+			<ResearchableTechName>1400300206</ResearchableTechName>
+			<ResearchableTechIcon>42054</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300205</ResearchableTechDescription>
+			<TechName>1400300206</TechName>
+			<TechIcon>42054</TechIcon>
+			<TechDescription>1400300205</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>42054</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-4</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+
+<!-- <GUID>37726</GUID> -->
+<!-- <GUID>37844</GUID> -->
+
+
+
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300206</GUID>
+			<Name>Gate Custom Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>-6905748428048504120</VisibleTechName>
+			<VisibleTechIcon>37766</VisibleTechIcon>
+			<VisibleTechDescription>-6905232629099400217</VisibleTechDescription>
+			<ResearchableTechName>-6905748428048504120</ResearchableTechName>
+			<ResearchableTechIcon>37766</ResearchableTechIcon>
+			<ResearchableTechDescription>-6905232629099400217</ResearchableTechDescription>
+			<TechName>-6905748428048504120</TechName>
+			<TechIcon>37766</TechIcon>
+			<TechDescription>-6905232629099400217</TechDescription>
+			<GridPosition>
+				<X>-3</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Green</Color>
+			<IsGate>1</IsGate>
+			<InfoTipOverride>37943</InfoTipOverride>
+		</Tech>
+		<Locked />
+	</Values>
+</Asset>
+
+
+ <ModOp Type="addnextsibling" GUID="55125">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300209</GUID>
+          <Name>Economy Gate retroactive unlock</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionAlwaysTrue</Template>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>1400300206</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+          <SubTriggers>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionUnlocked</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionUnlocked>
+                          <UnlockNeeded>37726</UnlockNeeded>
+                        </ConditionUnlocked>
+                        <ConditionPropsNegatable />
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+          </SubTriggers>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+          <UsedBySecondParties>0</UsedBySecondParties>
+          <UsedByThirdParties>0</UsedByThirdParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+<!-- <GUID>24318</GUID> -->
+<!-- <GUID>38727</GUID> -->
+<!-- <GUID>50159</GUID> -->
+
+
+  <ModOp Add="@24318/TechCategory/Techs">
+    <Item><Tech>1400300200</Tech></Item>
+    <Item><Tech>1400300201</Tech></Item>
+    <Item><Tech>1400300202</Tech></Item>
+    <Item><Tech>1400300203</Tech></Item>
+    <Item><Tech>1400300204</Tech></Item>
+    <Item><Tech>1400300205</Tech></Item>
+	</ModOp>
+  <ModOp Add="@38727/AssetPool/AssetList">
+    <Item><Tech>1400300200</Tech></Item>
+    <Item><Tech>1400300201</Tech></Item>
+    <Item><Tech>1400300202</Tech></Item>
+    <Item><Tech>1400300203</Tech></Item>
+    <Item><Tech>1400300204</Tech></Item>
+    <Item><Tech>1400300205</Tech></Item>
+	</ModOp>
+
+  <ModOp Add="@50159/AssetPool/AssetList">
+    <Item><Tech>1400300206</Tech></Item>
+	</ModOp>
+  <ModOp Add="@24318/TechCategory/Techs">
+    <Item><Tech>1400300206</Tech></Item>
+	</ModOp>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                                              Civic                                             -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+
+<!-- <GUID>79670</GUID> -->
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300210</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>106416</VisibleTechIcon>
+			<VisibleTechDescription>1400300210</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>106416</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300210</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>106416</TechIcon>
+			<TechDescription>1400300210</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>106416</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>0</X>
+				<Y>25</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300211</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>51282</VisibleTechIcon>
+			<VisibleTechDescription>1400300211</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>51282</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300211</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>51282</TechIcon>
+			<TechDescription>1400300211</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>51282</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>1</X>
+				<Y>25</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300212</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>80179</VisibleTechIcon>
+			<VisibleTechDescription>1400300212</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>80179</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300212</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>80179</TechIcon>
+			<TechDescription>1400300212</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>80179</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>1</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300213</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>107554</VisibleTechIcon>
+			<VisibleTechDescription>1400300213</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>107554</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300213</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>107554</TechIcon>
+			<TechDescription>1400300213</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>107554</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>0</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300214</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>107339</VisibleTechIcon>
+			<VisibleTechDescription>1400300214</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>107339</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300214</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>107339</TechIcon>
+			<TechDescription>1400300214</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>107339</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-1</X>
+				<Y>25</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300215</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300216</VisibleTechName>
+			<VisibleTechIcon>54041</VisibleTechIcon>
+			<VisibleTechDescription>1400300215</VisibleTechDescription>
+			<ResearchableTechName>1400300216</ResearchableTechName>
+			<ResearchableTechIcon>54041</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300215</ResearchableTechDescription>
+			<TechName>1400300216</TechName>
+			<TechIcon>54041</TechIcon>
+			<TechDescription>1400300215</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>54041</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>-1</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+
+
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300216</GUID>
+			<Name>Gate Custom Civic</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>-6913517557280745349</VisibleTechName>
+			<VisibleTechIcon>81172</VisibleTechIcon>
+			<VisibleTechDescription>-6903609973216368966</VisibleTechDescription>
+			<ResearchableTechName>-6913517557280745349</ResearchableTechName>
+			<ResearchableTechIcon>81172</ResearchableTechIcon>
+			<ResearchableTechDescription>-6903609973216368966</ResearchableTechDescription>
+			<TechName>-6913517557280745349</TechName>
+			<TechIcon>81172</TechIcon>
+			<TechDescription>-6903609973216368966</TechDescription>
+			<!-- <TechVisibilityTrigger>37856</TechVisibilityTrigger>
+			<TechResearchableTrigger>81173</TechResearchableTrigger> -->
+			<GridPosition>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Purple</Color>
+			<IsGate>1</IsGate>
+			<InfoTipOverride>37943</InfoTipOverride>
+		</Tech>
+		<Locked />
+	</Values>
+</Asset>
+
+<!-- <GUID>26701</GUID> -->
+<!-- <GUID>81171</GUID> -->
+<!-- <GUID>50159</GUID> -->
+
+<!-- <GUID>81172</GUID> -->
+<!-- <GUID>81173</GUID> -->
+
+  <ModOp Add="@26701/TechCategory/Techs">
+    <Item><Tech>1400300210</Tech></Item>
+    <Item><Tech>1400300211</Tech></Item>
+    <Item><Tech>1400300212</Tech></Item>
+    <Item><Tech>1400300213</Tech></Item>
+    <Item><Tech>1400300214</Tech></Item>
+    <Item><Tech>1400300215</Tech></Item>
+	</ModOp>
+  <ModOp Add="@81171/AssetPool/AssetList">
+    <Item><Tech>1400300210</Tech></Item>
+    <Item><Tech>1400300211</Tech></Item>
+    <Item><Tech>1400300212</Tech></Item>
+    <Item><Tech>1400300213</Tech></Item>
+    <Item><Tech>1400300214</Tech></Item>
+    <Item><Tech>1400300215</Tech></Item>
+	</ModOp>
+
+  <!-- <ModOp Add="@50159/AssetPool/AssetList">
+    <Item><Tech>1400300216</Tech></Item>
+	</ModOp> -->
+  <ModOp Add="@26701/TechCategory/Techs">
+    <Item><Tech>1400300216</Tech></Item>
+	</ModOp>
+
+
+
+
+
+   <ModOp Type="addnextsibling" GUID="55125">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300219</GUID>
+          <Name>Civic Gate retroactive unlock</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionAlwaysTrue</Template>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>1400300216</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+          <SubTriggers>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionUnlocked</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionUnlocked>
+                          <UnlockNeeded>81172</UnlockNeeded>
+                        </ConditionUnlocked>
+                        <ConditionPropsNegatable />
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+          </SubTriggers>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+          <UsedBySecondParties>0</UsedBySecondParties>
+          <UsedByThirdParties>0</UsedByThirdParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+
+
+
+
+
+
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                                            Military                                            -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+
+<!-- <GUID>79671</GUID> -->
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300220</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>71593</VisibleTechIcon>
+			<VisibleTechDescription>1400300220</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>71593</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300220</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>71593</TechIcon>
+			<TechDescription>1400300220</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>71593</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>3</X>
+				<Y>25</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300221</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>71564</VisibleTechIcon>
+			<VisibleTechDescription>1400300221</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>71564</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300221</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>71564</TechIcon>
+			<TechDescription>1400300221</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>71564</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>4</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300222</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>80686</VisibleTechIcon>
+			<VisibleTechDescription>1400300222</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>80686</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300222</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>80686</TechIcon>
+			<TechDescription>1400300222</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>80686</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>4</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300223</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>71521</VisibleTechIcon>
+			<VisibleTechDescription>1400300223</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>71521</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300223</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>71521</TechIcon>
+			<TechDescription>1400300223</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>71521</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>3</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300224</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>54025</VisibleTechIcon>
+			<VisibleTechDescription>1400300224</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>54025</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300224</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>54025</TechIcon>
+			<TechDescription>1400300224</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>54025</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>2</X>
+				<Y>27</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300225</GUID>
+			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>1400300226</VisibleTechName>
+			<VisibleTechIcon>106716</VisibleTechIcon>
+			<VisibleTechDescription>1400300225</VisibleTechDescription>
+			<ResearchableTechName>1400300226</ResearchableTechName>
+			<ResearchableTechIcon>106716</ResearchableTechIcon>
+			<ResearchableTechDescription>1400300225</ResearchableTechDescription>
+			<TechName>1400300226</TechName>
+			<TechIcon>106716</TechIcon>
+			<TechDescription>1400300225</TechDescription>
+			<IsRepeatable>1</IsRepeatable>
+			<KnowledgeNeeded>5000000</KnowledgeNeeded>
+			<RepeatableCostFactor>1</RepeatableCostFactor>
+			<Rewards>
+				<Items>
+					<Item>
+						<ItemAsset>106716</ItemAsset>
+					</Item>
+				</Items>
+			</Rewards>
+			<GridPosition>
+				<X>2</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>Brown</Color>
+		</Tech>
+	</Values>
+</Asset>
+
+
+
+
+<Asset>
+	<Template>Tech</Template>
+	<Values>
+		<Standard>
+			<GUID>1400300226</GUID>
+			<Name>Gate Custom Military</Name>
+			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
+		</Standard>
+		<Tech>
+			<VisibleTechName>-6913601188819382190</VisibleTechName>
+			<VisibleTechIcon>37721</VisibleTechIcon>
+			<VisibleTechDescription>-6901355849512607509</VisibleTechDescription>
+			<ResearchableTechName>-6913601188819382190</ResearchableTechName>
+			<ResearchableTechIcon>37721</ResearchableTechIcon>
+			<ResearchableTechDescription>-6901355849512607509</ResearchableTechDescription>
+			<TechName>-6913601188819382190</TechName>
+			<TechIcon>37721</TechIcon>
+			<TechDescription>-6901355849512607509</TechDescription>
+			<!-- <TechVisibilityTrigger>37744</TechVisibilityTrigger>
+			<TechResearchableTrigger>37823</TechResearchableTrigger> -->
+			<GridPosition>
+				<X>3</X>
+				<Y>26</Y>
+			</GridPosition>
+			<Color>RustRed</Color>
+			<IsGate>1</IsGate>
+			<InfoTipOverride>37943</InfoTipOverride>
+		</Tech>
+		<Locked />
+	</Values>
+</Asset>
+
+<!-- <GUID>24319</GUID> -->
+<!-- <GUID>81167</GUID> -->
+
+
+<!-- <GUID>37721</GUID> -->
+<!-- <GUID>37823</GUID> -->
+
+  <ModOp Add="@24319/TechCategory/Techs">
+    <Item><Tech>1400300220</Tech></Item>
+    <Item><Tech>1400300221</Tech></Item>
+    <Item><Tech>1400300222</Tech></Item>
+    <Item><Tech>1400300223</Tech></Item>
+    <Item><Tech>1400300224</Tech></Item>
+    <Item><Tech>1400300225</Tech></Item>
+	</ModOp>
+  <ModOp Add="@81167/AssetPool/AssetList">
+    <Item><Tech>1400300220</Tech></Item>
+    <Item><Tech>1400300221</Tech></Item>
+    <Item><Tech>1400300222</Tech></Item>
+    <Item><Tech>1400300223</Tech></Item>
+    <Item><Tech>1400300224</Tech></Item>
+    <Item><Tech>1400300225</Tech></Item>
+	</ModOp>
+
+  <!-- <ModOp Add="@50159/AssetPool/AssetList">
+    <Item><Tech>1400300216</Tech></Item>
+	</ModOp> -->
+  <ModOp Add="@24319/TechCategory/Techs">
+    <Item><Tech>1400300226</Tech></Item>
+	</ModOp>
+
+
+
+
+
+   <ModOp Type="addnextsibling" GUID="55125">
+    <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300229</GUID>
+          <Name>Military Gate retroactive unlock</Name>
+        </Standard>
+        <Trigger>
+          <TriggerCondition>
+            <Template>ConditionAlwaysTrue</Template>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>1400300226</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+          <SubTriggers>
+            <Item>
+              <SubTrigger>
+                <Template>AutoCreateTrigger</Template>
+                <Values>
+                  <Trigger>
+                    <TriggerCondition>
+                      <Template>ConditionUnlocked</Template>
+                      <Values>
+                        <Condition />
+                        <ConditionUnlocked>
+                          <UnlockNeeded>37721</UnlockNeeded>
+                        </ConditionUnlocked>
+                        <ConditionPropsNegatable />
+                      </Values>
+                    </TriggerCondition>
+                  </Trigger>
+                </Values>
+              </SubTrigger>
+            </Item>
+          </SubTriggers>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+          <UsedBySecondParties>0</UsedBySecondParties>
+          <UsedByThirdParties>0</UsedByThirdParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+
+
+</ModOps>
