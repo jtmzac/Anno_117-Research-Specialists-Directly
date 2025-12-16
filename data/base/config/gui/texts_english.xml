@@ -23,6 +23,25 @@
 
   <ModOp Add="/TextExport/Texts[1]">
     <Text>
+      <Text>Direct Economy Specialist Research</Text>
+      <LineId>1400300207</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Direct Civic Specialist Research</Text>
+      <LineId>1400300217</LineId>
+    </Text>
+  </ModOp>
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
+      <Text>Direct Military Specialist Research</Text>
+      <LineId>1400300227</LineId>
+    </Text>
+  </ModOp>
+
+  <ModOp Add="/TextExport/Texts[1]">
+    <Text>
       <Text>Shipyard reduced costs and faster build speed</Text>
       <LineId>1400300200</LineId>
     </Text>

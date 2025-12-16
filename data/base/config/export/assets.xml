@@ -19,7 +19,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300200</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 1</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -55,7 +55,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300201</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 2</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -91,7 +91,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300202</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 3</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -127,7 +127,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300203</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 4</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -163,7 +163,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300204</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 5</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -199,7 +199,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300205</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Economy Repeat Specialist 6</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -242,17 +242,17 @@
 	<Values>
 		<Standard>
 			<GUID>1400300206</GUID>
-			<Name>Gate Custom Economy</Name>
+			<Name>Tech Economy Repeat Specialist Gate</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
 		</Standard>
 		<Tech>
-			<VisibleTechName>-6905748428048504120</VisibleTechName>
+			<VisibleTechName>1400300207</VisibleTechName>
 			<VisibleTechIcon>37766</VisibleTechIcon>
 			<VisibleTechDescription>-6905232629099400217</VisibleTechDescription>
-			<ResearchableTechName>-6905748428048504120</ResearchableTechName>
+			<ResearchableTechName>1400300207</ResearchableTechName>
 			<ResearchableTechIcon>37766</ResearchableTechIcon>
 			<ResearchableTechDescription>-6905232629099400217</ResearchableTechDescription>
-			<TechName>-6905748428048504120</TechName>
+			<TechName>1400300207</TechName>
 			<TechIcon>37766</TechIcon>
 			<TechDescription>-6905232629099400217</TechDescription>
 			<!-- <TechVisibilityTrigger>37848</TechVisibilityTrigger> -->
@@ -382,7 +382,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300210</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 1</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -418,7 +418,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300211</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 2</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -454,7 +454,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300212</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 3</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -490,7 +490,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300213</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 4</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -526,7 +526,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300214</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 5</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -562,7 +562,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300215</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Civic Repeat Specialist 6</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -601,17 +601,17 @@
 	<Values>
 		<Standard>
 			<GUID>1400300216</GUID>
-			<Name>Gate Custom Civic</Name>
+			<Name>Tech Civic Repeat Specialist Gate</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
 		</Standard>
 		<Tech>
-			<VisibleTechName>-6913517557280745349</VisibleTechName>
+			<VisibleTechName>1400300217</VisibleTechName>
 			<VisibleTechIcon>81172</VisibleTechIcon>
 			<VisibleTechDescription>-6903609973216368966</VisibleTechDescription>
-			<ResearchableTechName>-6913517557280745349</ResearchableTechName>
+			<ResearchableTechName>1400300217</ResearchableTechName>
 			<ResearchableTechIcon>81172</ResearchableTechIcon>
 			<ResearchableTechDescription>-6903609973216368966</ResearchableTechDescription>
-			<TechName>-6913517557280745349</TechName>
+			<TechName>1400300217</TechName>
 			<TechIcon>81172</TechIcon>
 			<TechDescription>-6903609973216368966</TechDescription>
 			<GridPosition>
@@ -721,7 +721,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300220</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 1</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -757,7 +757,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300221</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 2</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -793,7 +793,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300222</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 3</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -829,7 +829,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300223</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 4</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -865,7 +865,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300224</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 5</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -901,7 +901,7 @@
 	<Values>
 		<Standard>
 			<GUID>1400300225</GUID>
-			<Name>Tech Economy -3 345 Repeat Specialist Economy</Name>
+			<Name>Tech Military Repeat Specialist 6</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/generic/icon_2d_category_civic.png</IconFilename>
 		</Standard>
 		<Tech>
@@ -941,17 +941,17 @@
 	<Values>
 		<Standard>
 			<GUID>1400300226</GUID>
-			<Name>Gate Custom Military</Name>
+			<Name>Tech Military Repeat Specialist Gate</Name>
 			<IconFilename>data/ui/fhd/base/icon_content/tech_tree/icon_2d_eureka.png</IconFilename>
 		</Standard>
 		<Tech>
-			<VisibleTechName>-6913601188819382190</VisibleTechName>
+			<VisibleTechName>1400300227</VisibleTechName>
 			<VisibleTechIcon>37721</VisibleTechIcon>
 			<VisibleTechDescription>-6901355849512607509</VisibleTechDescription>
-			<ResearchableTechName>-6913601188819382190</ResearchableTechName>
+			<ResearchableTechName>1400300227</ResearchableTechName>
 			<ResearchableTechIcon>37721</ResearchableTechIcon>
 			<ResearchableTechDescription>-6901355849512607509</ResearchableTechDescription>
-			<TechName>-6913601188819382190</TechName>
+			<TechName>1400300227</TechName>
 			<TechIcon>37721</TechIcon>
 			<TechDescription>-6901355849512607509</TechDescription>
 			<!-- <TechVisibilityTrigger>37744</TechVisibilityTrigger>
@@ -1051,6 +1051,94 @@
         </TriggerSetup>
       </Values>
     </Asset>
+
+
+
+
+
+
+
+
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                               Fix for earlier broken version                                   -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+
+	<!-- Resets all 3 gate unlock triggers once per save game. -->
+	<!-- This is needed to fix the unlock triggers being broken in earlier version since they may have already been triggered -->
+ 	<Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300228</GUID>
+          <Name>resetRetroGateTriggers</Name>
+        </Standard>
+		<Trigger>
+			<TriggerCondition>
+				<Template>ConditionAlwaysTrue</Template>
+				<Values>
+					<Condition />
+					<ConditionAlwaysTrue />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionRegisterTrigger</Template>
+						<Values>
+							<Action />
+							<ActionRegisterTrigger>
+								<TriggerAsset>1400300209</TriggerAsset>
+							</ActionRegisterTrigger>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionRegisterTrigger</Template>
+						<Values>
+							<Action />
+							<ActionRegisterTrigger>
+								<TriggerAsset>1400300219</TriggerAsset>
+							</ActionRegisterTrigger>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionRegisterTrigger</Template>
+						<Values>
+							<Action />
+							<ActionRegisterTrigger>
+								<TriggerAsset>1400300229</TriggerAsset>
+							</ActionRegisterTrigger>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
