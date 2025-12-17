@@ -1220,8 +1220,185 @@
 
 
 
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                              Repeat lock/unlocks using devotion                                -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 
 
+	<!-- <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300217</GUID>
+          <Name>Ceres Enable</Name>
+        </Standard>
+		<Trigger>
+			<TriggerCondition>
+				<Template>ConditionPlayerCounter</Template>
+				<Values>
+					<Condition />
+					<ConditionPlayerCounter>
+						<PlayerCounter>PatronDevotion</PlayerCounter>
+						<Context>43594</Context>
+						<ComparisonOp>MoreThan</ComparisonOp>
+						<CounterAmount>1000</CounterAmount>
+					</ConditionPlayerCounter>
+					<ConditionLocationProps />
+					<ConditionCounterProps />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item><Asset>1400300206</Asset></Item>
+									<Item><Asset>1400300216</Asset></Item>
+									<Item><Asset>1400300226</Asset></Item>
+									<Item><Asset>1400300200</Asset></Item>
+									<Item><Asset>1400300201</Asset></Item>
+									<Item><Asset>1400300202</Asset></Item>
+									<Item><Asset>1400300203</Asset></Item>
+									<Item><Asset>1400300204</Asset></Item>
+									<Item><Asset>1400300205</Asset></Item>
+									<Item><Asset>1400300210</Asset></Item>
+									<Item><Asset>1400300211</Asset></Item>
+									<Item><Asset>1400300212</Asset></Item>
+									<Item><Asset>1400300213</Asset></Item>
+									<Item><Asset>1400300214</Asset></Item>
+									<Item><Asset>1400300215</Asset></Item>
+									<Item><Asset>1400300220</Asset></Item>
+									<Item><Asset>1400300221</Asset></Item>
+									<Item><Asset>1400300222</Asset></Item>
+									<Item><Asset>1400300223</Asset></Item>
+									<Item><Asset>1400300224</Asset></Item>
+									<Item><Asset>1400300225</Asset></Item>
+								</UnhideAssets>
+								<UnlockAssets>
+									<Item><Asset>1400300206</Asset></Item>
+									<Item><Asset>1400300216</Asset></Item>
+									<Item><Asset>1400300226</Asset></Item>
+									<Item><Asset>1400300200</Asset></Item>
+									<Item><Asset>1400300201</Asset></Item>
+									<Item><Asset>1400300202</Asset></Item>
+									<Item><Asset>1400300203</Asset></Item>
+									<Item><Asset>1400300204</Asset></Item>
+									<Item><Asset>1400300205</Asset></Item>
+									<Item><Asset>1400300210</Asset></Item>
+									<Item><Asset>1400300211</Asset></Item>
+									<Item><Asset>1400300212</Asset></Item>
+									<Item><Asset>1400300213</Asset></Item>
+									<Item><Asset>1400300214</Asset></Item>
+									<Item><Asset>1400300215</Asset></Item>
+									<Item><Asset>1400300220</Asset></Item>
+									<Item><Asset>1400300221</Asset></Item>
+									<Item><Asset>1400300222</Asset></Item>
+									<Item><Asset>1400300223</Asset></Item>
+									<Item><Asset>1400300224</Asset></Item>
+									<Item><Asset>1400300225</Asset></Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionRegisterTrigger</Template>
+						<Values>
+							<Action />
+							<ActionRegisterTrigger>
+								<TriggerAsset>1400300218</TriggerAsset>
+							</ActionRegisterTrigger>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+
+	<Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300218</GUID>
+          <Name>Ceres Disable</Name>
+        </Standard>
+		<Trigger>
+			<TriggerCondition>
+				<Template>ConditionPlayerCounter</Template>
+				<Values>
+					<Condition />
+					<ConditionPlayerCounter>
+						<PlayerCounter>PatronDevotion</PlayerCounter>
+						<Context>43594</Context>
+						<ComparisonOp>LessThan</ComparisonOp>
+						<CounterAmount>1000</CounterAmount>
+					</ConditionPlayerCounter>
+					<ConditionLocationProps />
+					<ConditionCounterProps />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionLockAsset</Template>
+						<Values>
+							<Action />
+							<ActionLockAsset>
+								<LockAssets>
+									<Item><Asset>1400300206</Asset></Item>
+									<Item><Asset>1400300216</Asset></Item>
+									<Item><Asset>1400300226</Asset></Item>
+									<Item><Asset>1400300200</Asset></Item>
+									<Item><Asset>1400300201</Asset></Item>
+									<Item><Asset>1400300202</Asset></Item>
+									<Item><Asset>1400300203</Asset></Item>
+									<Item><Asset>1400300204</Asset></Item>
+									<Item><Asset>1400300205</Asset></Item>
+									<Item><Asset>1400300210</Asset></Item>
+									<Item><Asset>1400300211</Asset></Item>
+									<Item><Asset>1400300212</Asset></Item>
+									<Item><Asset>1400300213</Asset></Item>
+									<Item><Asset>1400300214</Asset></Item>
+									<Item><Asset>1400300215</Asset></Item>
+									<Item><Asset>1400300220</Asset></Item>
+									<Item><Asset>1400300221</Asset></Item>
+									<Item><Asset>1400300222</Asset></Item>
+									<Item><Asset>1400300223</Asset></Item>
+									<Item><Asset>1400300224</Asset></Item>
+									<Item><Asset>1400300225</Asset></Item>
+								</LockAssets>
+							</ActionLockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionRegisterTrigger</Template>
+						<Values>
+							<Action />
+							<ActionRegisterTrigger>
+								<TriggerAsset>1400300217</TriggerAsset>
+							</ActionRegisterTrigger>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+        </TriggerSetup>
+      </Values>
+    </Asset> -->
 
 
 
