@@ -1034,7 +1034,7 @@
 										<Asset>1400300226</Asset>
 									</Item>
 									</UnhideAssets>
-									<UnlockAssets>
+								<UnlockAssets>
 									<Item>
 										<Asset>1400300226</Asset>
 									</Item>
@@ -1128,7 +1128,95 @@
 
 
 
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!--                                       Force All Unlocks                                        -->
+<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 
+
+ 	<!-- <Asset>
+      <Template>Trigger</Template>
+      <Values>
+        <Standard>
+          <GUID>1400300227</GUID>
+          <Name>forceAllUnlocks</Name>
+        </Standard>
+		<Trigger>
+			<TriggerCondition>
+				<Template>ConditionAlwaysTrue</Template>
+				<Values>
+					<Condition />
+					<ConditionAlwaysTrue />
+				</Values>
+			</TriggerCondition>
+			<TriggerActions>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300206</Asset>
+									</Item>
+									</UnhideAssets>
+								<UnlockAssets>
+									<Item>
+										<Asset>1400300206</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300216</Asset>
+									</Item>
+									</UnhideAssets>
+								<UnlockAssets>
+									<Item>
+										<Asset>1400300216</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+				<Item>
+					<TriggerAction>
+						<Template>ActionUnlockAsset</Template>
+						<Values>
+							<Action />
+							<ActionUnlockAsset>
+								<UnhideAssets>
+									<Item>
+										<Asset>1400300226</Asset>
+									</Item>
+									</UnhideAssets>
+								<UnlockAssets>
+									<Item>
+										<Asset>1400300226</Asset>
+									</Item>
+								</UnlockAssets>
+							</ActionUnlockAsset>
+						</Values>
+					</TriggerAction>
+				</Item>
+			</TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <AutoRegisterTrigger>1</AutoRegisterTrigger>
+          <UsedByFirstParties>1</UsedByFirstParties>
+        </TriggerSetup>
+      </Values>
+    </Asset> -->
 
 
 
